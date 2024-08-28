@@ -22,7 +22,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "agis",
             "altText": "",
             "url": "/agis",
             "showIcon": false,
